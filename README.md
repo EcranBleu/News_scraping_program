@@ -1,4 +1,4 @@
-# News_scraping_program
+# News scraping program
 
 Basic scraping tool parsing entries from the Hacker News website.
 
